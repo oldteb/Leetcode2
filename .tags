@@ -1,0 +1,129 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Solution	E:\Git\Leetcode2\Add Digits.java	/^class Solution {$/;"	class	line:1
+addDigits	E:\Git\Leetcode2\Add Digits.java	/^    int addDigits(int num) {$/;"	method	line:2	class:Solution	signature:(int num)
+Solution	E:\Git\Leetcode2\BalancedBinaryTree.java	/^public class Solution {$/;"	class	line:10
+isBalanced	E:\Git\Leetcode2\BalancedBinaryTree.java	/^    public boolean isBalanced(TreeNode root) {$/;"	method	line:11	class:Solution	signature:(TreeNode root)
+dfs	E:\Git\Leetcode2\BalancedBinaryTree.java	/^    int dfs(TreeNode root){$/;"	method	line:15	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\BestTimetoBuyandSellStock.java	/^public class Solution {$/;"	class	line:1
+maxProfit	E:\Git\Leetcode2\BestTimetoBuyandSellStock.java	/^    public int maxProfit(int[] prices) {$/;"	method	line:2	class:Solution	signature:(int[] prices)
+Solution	E:\Git\Leetcode2\BestTimetoBuyandSellStockII.java	/^public class Solution {$/;"	class	line:1
+maxProfit	E:\Git\Leetcode2\BestTimetoBuyandSellStockII.java	/^    public int maxProfit(int[] prices) {$/;"	method	line:2	class:Solution	signature:(int[] prices)
+Solution	E:\Git\Leetcode2\BinaryTreeInorderTraversal.java	/^public class Solution {$/;"	class	line:10
+inorderTraversal	E:\Git\Leetcode2\BinaryTreeInorderTraversal.java	/^    public List<Integer> inorderTraversal(TreeNode root) {$/;"	method	line:11	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\BinaryTreeLevelOrderTraversalII.java	/^public class Solution {$/;"	class	line:10
+levelOrderBottom	E:\Git\Leetcode2\BinaryTreeLevelOrderTraversalII.java	/^    public List<List<Integer>> levelOrderBottom(TreeNode root) {$/;"	method	line:11	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\BinaryTreePreorderTraversal.java	/^public class Solution {$/;"	class	line:10
+preorderTraversal	E:\Git\Leetcode2\BinaryTreePreorderTraversal.java	/^    public List<Integer> preorderTraversal(TreeNode root) {$/;"	method	line:11	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\ClimbingStairs.java	/^public class Solution {$/;"	class	line:1
+climbStairs	E:\Git\Leetcode2\ClimbingStairs.java	/^    public int climbStairs(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\ConvertSortedArraytoBinarySearchTree.java	/^public class Solution {$/;"	class	line:10
+sortedArrayToBST	E:\Git\Leetcode2\ConvertSortedArraytoBinarySearchTree.java	/^    public TreeNode sortedArrayToBST(int[] nums) {$/;"	method	line:11	class:Solution	signature:(int[] nums)
+help	E:\Git\Leetcode2\ConvertSortedArraytoBinarySearchTree.java	/^    TreeNode help(int[] nums, int begin, int end){$/;"	method	line:21	class:Solution	signature:(int[] nums, int begin, int end)
+Solution	E:\Git\Leetcode2\DeleteNodeinaLinkedList.java	/^public class Solution {$/;"	class	line:9
+deleteNode	E:\Git\Leetcode2\DeleteNodeinaLinkedList.java	/^    public void deleteNode(ListNode node) {$/;"	method	line:10	class:Solution	signature:(ListNode node)
+Solution	E:\Git\Leetcode2\ExcelSheetColumnNumber.java	/^public class Solution {$/;"	class	line:1
+titleToNumber	E:\Git\Leetcode2\ExcelSheetColumnNumber.java	/^    public int titleToNumber(String s) {$/;"	method	line:2	class:Solution	signature:(String s)
+Solution	E:\Git\Leetcode2\FactorialTrailingZeroes.java	/^public class Solution {$/;"	class	line:1
+trailingZeroes	E:\Git\Leetcode2\FactorialTrailingZeroes.java	/^    public int trailingZeroes(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\FindMinimuminRotatedSortedArray.java	/^public class Solution {$/;"	class	line:1
+findMin	E:\Git\Leetcode2\FindMinimuminRotatedSortedArray.java	/^    public int findMin(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\GenerateParentheses.java	/^public class Solution {$/;"	class	line:1
+generateParenthesis	E:\Git\Leetcode2\GenerateParentheses.java	/^    public List<String> generateParenthesis(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+help	E:\Git\Leetcode2\GenerateParentheses.java	/^    void help(List<String> rst, StringBuffer sb, int lvl, int n){$/;"	method	line:16	class:Solution	signature:(List<String> rst, StringBuffer sb, int lvl, int n)
+Solution	E:\Git\Leetcode2\GrayCode.java	/^public class Solution {$/;"	class	line:1
+grayCode	E:\Git\Leetcode2\GrayCode.java	/^    public List<Integer> grayCode(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\HappyNumber.java	/^public class Solution {$/;"	class	line:1
+isHappy	E:\Git\Leetcode2\HappyNumber.java	/^    public boolean isHappy(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+digitsSum	E:\Git\Leetcode2\HappyNumber.java	/^    int digitsSum(int n){$/;"	method	line:22	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\HouseRobber.java	/^public class Solution {$/;"	class	line:1
+rob	E:\Git\Leetcode2\HouseRobber.java	/^    public int rob(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+MyQueue	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^class MyQueue {$/;"	class	line:1
+inStack	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^    Stack<Integer> inStack = new Stack<Integer>();$/;"	field	line:3	class:MyQueue
+outStack	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^    Stack<Integer> outStack = new Stack<Integer>();$/;"	field	line:4	class:MyQueue
+push	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^    public void push(int x) {$/;"	method	line:7	class:MyQueue	signature:(int x)
+pop	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^    public void pop() {$/;"	method	line:12	class:MyQueue	signature:()
+peek	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^    public int peek() {$/;"	method	line:23	class:MyQueue	signature:()
+empty	E:\Git\Leetcode2\ImplementQueueusingStacks.java	/^    public boolean empty() {$/;"	method	line:33	class:MyQueue	signature:()
+Solution	E:\Git\Leetcode2\IntegertoRoman.java	/^public class Solution {$/;"	class	line:1
+intToRoman	E:\Git\Leetcode2\IntegertoRoman.java	/^    public String intToRoman(int num) {$/;"	method	line:2	class:Solution	signature:(int num)
+Solution	E:\Git\Leetcode2\InvertBinaryTree.java	/^public class Solution {$/;"	class	line:13
+invertTree	E:\Git\Leetcode2\InvertBinaryTree.java	/^    public TreeNode invertTree(TreeNode root) {$/;"	method	line:14	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\InvertBinaryTree.java	/^public class Solution {$/;"	class	line:43
+invertTree	E:\Git\Leetcode2\InvertBinaryTree.java	/^    public TreeNode invertTree(TreeNode root) {$/;"	method	line:44	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\LinkedListCycle.java	/^public class Solution {$/;"	class	line:12
+hasCycle	E:\Git\Leetcode2\LinkedListCycle.java	/^    public boolean hasCycle(ListNode head) {$/;"	method	line:13	class:Solution	signature:(ListNode head)
+Solution	E:\Git\Leetcode2\LinkedListCycleII.java	/^public class Solution {$/;"	class	line:12
+detectCycle	E:\Git\Leetcode2\LinkedListCycleII.java	/^    public ListNode detectCycle(ListNode head) {$/;"	method	line:13	class:Solution	signature:(ListNode head)
+Solution	E:\Git\Leetcode2\LowestCommonAncestorofaBinarySearchTree.java	/^public class Solution {$/;"	class	line:10
+lowestCommonAncestor	E:\Git\Leetcode2\LowestCommonAncestorofaBinarySearchTree.java	/^    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {$/;"	method	line:11	class:Solution	signature:(TreeNode root, TreeNode p, TreeNode q)
+help	E:\Git\Leetcode2\LowestCommonAncestorofaBinarySearchTree.java	/^    int help(TreeNode root, TreeNode target, List<TreeNode> list){$/;"	method	line:28	class:Solution	signature:(TreeNode root, TreeNode target, List<TreeNode> list)
+Solution	E:\Git\Leetcode2\MajorityElement.java	/^public class Solution {$/;"	class	line:1
+majorityElement	E:\Git\Leetcode2\MajorityElement.java	/^    public int majorityElement(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+partition	E:\Git\Leetcode2\MajorityElement.java	/^    int partition(int[] nums){$/;"	method	line:10	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\MaximumDepthofBinaryTree.java	/^public class Solution {$/;"	class	line:10
+maxDepth	E:\Git\Leetcode2\MaximumDepthofBinaryTree.java	/^    public int maxDepth(TreeNode root) {$/;"	method	line:11	class:Solution	signature:(TreeNode root)
+Solution	E:\Git\Leetcode2\MaximumSubarray.java	/^public class Solution {$/;"	class	line:1
+maxSubArray	E:\Git\Leetcode2\MaximumSubarray.java	/^    public int maxSubArray(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\MergeTwoSortedLists.java	/^public class Solution {$/;"	class	line:9
+mergeTwoLists	E:\Git\Leetcode2\MergeTwoSortedLists.java	/^    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {$/;"	method	line:10	class:Solution	signature:(ListNode l1, ListNode l2)
+Solution	E:\Git\Leetcode2\MissingNumber.java	/^public class Solution {$/;"	class	line:1
+missingNumber	E:\Git\Leetcode2\MissingNumber.java	/^    public int missingNumber(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\MoveZeroes.java	/^public class Solution {$/;"	class	line:1
+moveZeroes	E:\Git\Leetcode2\MoveZeroes.java	/^    public void moveZeroes(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\NimGame.java	/^class Solution {$/;"	class	line:4
+canWinNim	E:\Git\Leetcode2\NimGame.java	/^    bool canWinNim(int n) {$/;"	method	line:6	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\Numberof1Bits.java	/^public class Solution {$/;"	class	line:1
+hammingWeight	E:\Git\Leetcode2\Numberof1Bits.java	/^    public int hammingWeight(int n) {$/;"	method	line:3	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\PascalsTriangle.java	/^public class Solution {$/;"	class	line:1
+generate	E:\Git\Leetcode2\PascalsTriangle.java	/^    public List<List<Integer>> generate(int numRows) {$/;"	method	line:2	class:Solution	signature:(int numRows)
+Solution	E:\Git\Leetcode2\PlusOne.java	/^public class Solution {$/;"	class	line:1
+plusOne	E:\Git\Leetcode2\PlusOne.java	/^    public int[] plusOne(int[] digits) {$/;"	method	line:2	class:Solution	signature:(int[] digits)
+Solution	E:\Git\Leetcode2\PopulatingNextRightPointersinEachNode.java	/^public class Solution {$/;"	class	line:9
+connect	E:\Git\Leetcode2\PopulatingNextRightPointersinEachNode.java	/^    public void connect(TreeLinkNode root) {$/;"	method	line:10	class:Solution	signature:(TreeLinkNode root)
+Solution	E:\Git\Leetcode2\PowerofTwo.java	/^public class Solution {$/;"	class	line:1
+isPowerOfTwo	E:\Git\Leetcode2\PowerofTwo.java	/^    public boolean isPowerOfTwo(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\ProductofArrayExceptSelf.java	/^public class Solution {$/;"	class	line:1
+productExceptSelf	E:\Git\Leetcode2\ProductofArrayExceptSelf.java	/^    public int[] productExceptSelf(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Leetcode2	E:\Git\Leetcode2\README.md	/^# Leetcode2$/;"	function	line:1
+Solution	E:\Git\Leetcode2\RemoveDuplicatesfromSortedArray.java	/^public class Solution {$/;"	class	line:1
+removeDuplicates	E:\Git\Leetcode2\RemoveDuplicatesfromSortedArray.java	/^    public int removeDuplicates(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\RemoveDuplicatesfromSortedList.java	/^public class Solution {$/;"	class	line:9
+deleteDuplicates	E:\Git\Leetcode2\RemoveDuplicatesfromSortedList.java	/^    public ListNode deleteDuplicates(ListNode head) {$/;"	method	line:10	class:Solution	signature:(ListNode head)
+Solution	E:\Git\Leetcode2\RemoveElement.java	/^public class Solution {$/;"	class	line:1
+removeElement	E:\Git\Leetcode2\RemoveElement.java	/^    public int removeElement(int[] nums, int val) {$/;"	method	line:2	class:Solution	signature:(int[] nums, int val)
+Solution	E:\Git\Leetcode2\ReverseLinkedList.java	/^public class Solution {$/;"	class	line:9
+reverseList	E:\Git\Leetcode2\ReverseLinkedList.java	/^    public ListNode reverseList(ListNode head) {$/;"	method	line:10	class:Solution	signature:(ListNode head)
+Solution	E:\Git\Leetcode2\RomantoInteger.java	/^public class Solution {$/;"	class	line:1
+romanToInt	E:\Git\Leetcode2\RomantoInteger.java	/^    public int romanToInt(String s) {$/;"	method	line:2	class:Solution	signature:(String s)
+Solution	E:\Git\Leetcode2\SameTree.java	/^public class Solution {$/;"	class	line:10
+isSameTree	E:\Git\Leetcode2\SameTree.java	/^    public boolean isSameTree(TreeNode p, TreeNode q) {$/;"	method	line:11	class:Solution	signature:(TreeNode p, TreeNode q)
+Solution	E:\Git\Leetcode2\SearchInsertPosition.java	/^public class Solution {$/;"	class	line:1
+searchInsert	E:\Git\Leetcode2\SearchInsertPosition.java	/^    public int searchInsert(int[] nums, int target) {$/;"	method	line:2	class:Solution	signature:(int[] nums, int target)
+BinerySearch	E:\Git\Leetcode2\SearchInsertPosition.java	/^    int BinerySearch(int[] nums, int begin, int end, int target){$/;"	method	line:8	class:Solution	signature:(int[] nums, int begin, int end, int target)
+Solution	E:\Git\Leetcode2\SingleNumber.java	/^public class Solution {$/;"	class	line:1
+singleNumber	E:\Git\Leetcode2\SingleNumber.java	/^    public int singleNumber(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\SingleNumberII.java	/^public class Solution {$/;"	class	line:1
+singleNumber	E:\Git\Leetcode2\SingleNumberII.java	/^    public int singleNumber(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\SingleNumberIII.java	/^public class Solution {$/;"	class	line:1
+singleNumber	E:\Git\Leetcode2\SingleNumberIII.java	/^    public int[] singleNumber(int[] nums) {$/;"	method	line:2	class:Solution	signature:(int[] nums)
+Solution	E:\Git\Leetcode2\SymmetricTree.java	/^public class Solution {$/;"	class	line:10
+isSymmetric	E:\Git\Leetcode2\SymmetricTree.java	/^    public boolean isSymmetric(TreeNode root) {$/;"	method	line:11	class:Solution	signature:(TreeNode root)
+dfs	E:\Git\Leetcode2\SymmetricTree.java	/^    boolean dfs(TreeNode left, TreeNode right){$/;"	method	line:16	class:Solution	signature:(TreeNode left, TreeNode right)
+Solution	E:\Git\Leetcode2\UglyNumber.java	/^public class Solution {$/;"	class	line:1
+isUgly	E:\Git\Leetcode2\UglyNumber.java	/^    public boolean isUgly(int num) {$/;"	method	line:2	class:Solution	signature:(int num)
+Solution	E:\Git\Leetcode2\UniqueBinarySearchTrees.java	/^public class Solution {$/;"	class	line:1
+numTrees	E:\Git\Leetcode2\UniqueBinarySearchTrees.java	/^    public int numTrees(int n) {$/;"	method	line:2	class:Solution	signature:(int n)
+Solution	E:\Git\Leetcode2\UniquePaths.java	/^public class Solution {$/;"	class	line:1
+uniquePaths	E:\Git\Leetcode2\UniquePaths.java	/^    public int uniquePaths(int m, int n) {$/;"	method	line:2	class:Solution	signature:(int m, int n)
+Solution	E:\Git\Leetcode2\ValidAnagram.java	/^public class Solution {$/;"	class	line:1
+Tuple	E:\Git\Leetcode2\ValidAnagram.java	/^    class Tuple{$/;"	class	line:5	class:Solution
+highBit	E:\Git\Leetcode2\ValidAnagram.java	/^        int highBit = 0;$/;"	field	line:6	class:Solution.Tuple
+lowBit	E:\Git\Leetcode2\ValidAnagram.java	/^        int lowBit = 0;$/;"	field	line:7	class:Solution.Tuple
+equals	E:\Git\Leetcode2\ValidAnagram.java	/^        public boolean equals(Object obj){$/;"	method	line:10	class:Solution.Tuple	signature:(Object obj)
+hashCode	E:\Git\Leetcode2\ValidAnagram.java	/^        public int hashCode(){$/;"	method	line:19	class:Solution.Tuple	signature:()
+isAnagram	E:\Git\Leetcode2\ValidAnagram.java	/^    public boolean isAnagram(String s, String t) {$/;"	method	line:25	class:Solution	signature:(String s, String t)

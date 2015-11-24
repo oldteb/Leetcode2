@@ -1,0 +1,9 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Solution	E:\Git\Leetcode2\PathSum.java	/^public class Solution {$/;"	class	line:10
+hasPathSum	E:\Git\Leetcode2\PathSum.java	/^    public boolean hasPathSum(TreeNode root, int sum) {$/;"	method	line:11	class:Solution	signature:(TreeNode root, int sum)
+dfs	E:\Git\Leetcode2\PathSum.java	/^    boolean dfs(TreeNode root, int subSum, int sum){$/;"	method	line:16	class:Solution	signature:(TreeNode root, int subSum, int sum)
