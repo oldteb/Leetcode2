@@ -1,7 +1,7 @@
 public class Solution {
 
 
-    // The porpurse to add this inner class is to handle unicode characters.
+    // The porpurse to add this inner class is to handle unicode characters
     class Tuple{
         int highBit = 0;
         int lowBit = 0;
